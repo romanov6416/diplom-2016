@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  18 APR 2016 01:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  18 APR 2016 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,42 +668,48 @@ Package pdftex.def Info: nfv-mano.png used on input line 163.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8]
-Underfull \hbox (badness 1292) in paragraph at lines 171--172
+[8] [9 <./nfv-mano.png>]
+Underfull \hbox (badness 1292) in paragraph at lines 179--180
 []\T2A/cmr/m/n/14.4 ћенеджер ин-фра-струк-ту-ры обес-пе-чи-ва-ет вир-ту-а-ли-за
 -цию фи-зи-че-ской
  []
 
-[9 <./nfv-mano.png>] [10] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+[10] [11]
+Underfull \hbox (badness 1616) in paragraph at lines 214--215
+[]\T2A/cmr/m/n/14.4 отслеживание неис-прав-но-стей в ра-бо-те про-грамм-но-го о
+бес-пе-че-ни€
+ []
+
+[12] [13] [14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation (NFV); use cases. URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
 \T2A/cmr/m/n/14.4 http://www.etsi.org/technologies-clusters/technologies/nfv (д
 а-та об-ра-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 []\T2A/cmr/m/n/14.4 NFV дл€ кор-по-ра-тив-ных сер-ви-сов - Э 12, 2014. URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 []\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ци€ се-те-вых функ-ций. URL: http://sci-
 
  []
 
-[13
+[17
 
 ] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 3187 strings out of 493304
- 42356 string characters out of 6139871
- 106910 words of memory out of 5000000
- 6585 multiletter control sequences out of 15000+600000
+ 3188 strings out of 493304
+ 42383 string characters out of 6139871
+ 105914 words of memory out of 5000000
+ 6586 multiletter control sequences out of 15000+600000
  13952 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,5n,32p,2062b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -716,10 +722,10 @@ sr/share/texmf/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfbx3583.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on diplom-2016.pdf (13 pages, 221694 bytes).
+Output written on diplom-2016.pdf (17 pages, 233447 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 104 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
