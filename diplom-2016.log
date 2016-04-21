@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  18 APR 2016 13:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  21 APR 2016 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -625,14 +625,14 @@ f>] [2
 
 ] (./diplom-2016.toc
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 4.
-)
+(Font)              <7> on input line 5.
+ [3
+
+])
 \tf@toc=\write3
 \openout3 = `diplom-2016.toc'.
 
- [3
-
-]
+ [4]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 116.
 
 
@@ -641,91 +641,250 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
- [4
+ [5
 
-] [5] [6]
+] [6] [7]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-[7
+[8
 
 ]
-Underfull \hbox (badness 2837) in paragraph at lines 157--158
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+[9
+
+]
+Underfull \hbox (badness 2837) in paragraph at lines 175--176
 []\T2A/cmr/m/n/14.4 менеджер вир-ту-аль-ной ин-фра-струк-ту-ры (Virtualized Inf
 rastructure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 []\T2A/cmr/m/n/14.4 оркестратор вир-ту-аль-ных се-те-вых сер-ви-сов (Network Fu
 nction
  []
 
-<nfv-mano.png, id=38, 874.26625pt x 678.535pt>
+<nfv-mano.png, id=43, 874.26625pt x 678.535pt>
 File: nfv-mano.png Graphic file (type png)
  <use nfv-mano.png>
-Package pdftex.def Info: nfv-mano.png used on input line 163.
+Package pdftex.def Info: nfv-mano.png used on input line 181.
 (pdftex.def)             Requested size: 460.11871pt x 357.10591pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9 <./nfv-mano.png>]
-Underfull \hbox (badness 1292) in paragraph at lines 179--180
+[10] [11 <./nfv-mano.png>]
+Underfull \hbox (badness 1292) in paragraph at lines 197--198
 []\T2A/cmr/m/n/14.4 Менеджер ин-фра-струк-ту-ры обес-пе-чи-ва-ет вир-ту-а-ли-за
 -цию фи-зи-че-ской
  []
 
-[10] [11]
-Underfull \hbox (badness 1616) in paragraph at lines 214--215
+[12] [13]
+Underfull \hbox (badness 1616) in paragraph at lines 232--233
 []\T2A/cmr/m/n/14.4 отслеживание неис-прав-но-стей в ра-бо-те про-грамм-но-го о
 бес-пе-че-ния
  []
 
-[12] [13] [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+[14] [15] [16]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+[17
+
+] [18]
+Underfull \hbox (badness 2351) in paragraph at lines 291--292
+[]\T2A/cmr/m/n/14.4 инициализация ин-фра-струк-ту-ры функ-ций, ис-поль-зую прог
+раммы-
+ []
+
+[19] [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+[]\T2A/cmr/m/n/14.4 ETSI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 NFV
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+[]\T2A/cmr/m/n/14.4 Не-за-ви-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 си-мость
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 от плат-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 фор-мы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 вир-ту-а-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 ли-за-ции
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+[]\T2A/cmr/m/n/14.4 Од-но-вре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 мен-ная
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 ра-бо-та с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 несколь-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 ки-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+[]\T2A/cmr/m/n/14.4 Мо-ни-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 то-ринг
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 со-сто-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--357
+\T2A/cmr/m/n/14.4 я-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+[]\T2A/cmr/m/n/14.4 ав-то-ма-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\T2A/cmr/m/n/14.4 ти-чес-кое
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\T2A/cmr/m/n/14.4 сра-ба-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\T2A/cmr/m/n/14.4 ты-ва-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\T2A/cmr/m/n/14.4 триг-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\T2A/cmr/m/n/14.4 ге-ров
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\T2A/cmr/m/n/14.4 scaling,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+[]\T2A/cmr/m/n/14.4 Openstack
+ []
+
+[22] [23]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+[24
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+[25
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+[26
+
+] [27
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation (NFV); use cases. URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
 \T2A/cmr/m/n/14.4 http://www.etsi.org/technologies-clusters/technologies/nfv (д
 а-та об-ра-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
 []\T2A/cmr/m/n/14.4 NFV для кор-по-ра-тив-ных сер-ви-сов - ќ 12, 2014. URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 []\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ция се-те-вых функ-ций. URL: http://sci-
 
  []
 
-[17
 
-] (./diplom-2016.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+[]\T2A/cmr/m/n/14.4 Cloudify Overwiew. URL: http://getcloudify.org/guide/3.1/ov
+erview-
+ []
+
+[28
+
+] [29] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 3188 strings out of 493304
- 42383 string characters out of 6139871
- 105914 words of memory out of 5000000
- 6586 multiletter control sequences out of 15000+600000
- 13952 words of font info for 30 fonts, out of 8000000 for 9000
+ 3189 strings out of 493304
+ 42441 string characters out of 6139871
+ 109944 words of memory out of 5000000
+ 6588 multiletter control sequences out of 15000+600000
+ 13132 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,5n,32p,2062b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.
-enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></u
-sr/share/texmf/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/fonts
-/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf/fonts/type1/public/cm-sup
-er/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></us
-r/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on diplom-2016.pdf (17 pages, 233447 bytes).
+ 38i,10n,32p,2062b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super
+-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb
+>
+Output written on diplom-2016.pdf (29 pages, 268137 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 138 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
