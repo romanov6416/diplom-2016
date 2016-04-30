@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  28 APR 2016 18:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  30 APR 2016 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -831,7 +831,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--366
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
 [27
 
-] [28] [29] [30
+] [28] [29] [30] [31
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 488--489
@@ -861,9 +861,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 493--494
 erview-
  []
 
-[31
+[32
 
-] [32] (./diplom-2016.aux) ) 
+] [33] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
  3190 strings out of 493304
  42472 string characters out of 6139871
@@ -881,10 +881,10 @@ b></usr/share/texmf/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb
 >
-Output written on diplom-2016.pdf (32 pages, 278490 bytes).
+Output written on diplom-2016.pdf (33 pages, 279172 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
+ 152 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
