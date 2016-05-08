@@ -3,9 +3,9 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: diplom-2016.aux
 I found no \bibdata command---while reading file diplom-2016.aux
 I found no \bibstyle command---while reading file diplom-2016.aux
-You've used 2 entries,
+You've used 7 entries,
             0 wiz_defined-function locations,
-            85 strings with 522 characters,
+            90 strings with 613 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
