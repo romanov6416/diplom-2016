@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  12 MAY 2016 19:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  13 MAY 2016 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,17 +507,71 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen109
+\captionmargin@=\dimen110
+\captionwidth=\dimen111
+\caption@tempdima=\dimen112
+\caption@indent=\dimen113
+\caption@parindent=\dimen114
+\caption@hangindent=\dimen115
+)
+\c@ContinuedFloat=\count90
+)
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
 \aftertitleunit=\skip44
-\ttl@plus=\dimen109
-\ttl@minus=\dimen110
+\ttl@plus=\dimen116
+\ttl@minus=\dimen117
 \ttl@toksa=\toks17
-\titlewidth=\dimen111
-\titlewidthlast=\dimen112
-\titlewidthfirst=\dimen113
+\titlewidth=\dimen118
+\titlewidthlast=\dimen119
+\titlewidthfirst=\dimen120
+)
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box27
+\@floatcapt=\box28
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks19
+\flrow@foot=\insert233
+\FB@wd=\dimen121
+\FBo@wd=\dimen122
+\FBc@wd=\dimen123
+\FBo@ht=\skip45
+\FBc@ht=\skip46
+\FBf@ht=\skip47
+\FBo@max=\skip48
+\FBc@max=\skip49
+\FBf@max=\skip50
+\c@FBl@b=\count92
+\floatbox@depth=\count93
+\c@FRobj=\count94
+\c@FRsobj=\count95
+\Xhsize=\skip51
+\sXhsize=\skip52
+\Zhsize=\skip53
+\sZhsize=\skip54
+\flrow@rowbox=\box29
+\FR@Zunitlength=\dimen124
+\c@FBcnt=\count96
+\FPOScnt=\count97
+\LTleft=\skip55
+\LTright=\skip56
+\LTleft=\skip57
+\LTright=\skip58
+\flrow@types=\toks20
 )
 (./diplom-2016.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
@@ -526,33 +580,33 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `diplom-2016.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count90
-\scratchdimen=\dimen114
-\scratchbox=\box27
-\nofMPsegments=\count91
-\nofMParguments=\count92
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count93
-\MPscratchDim=\dimen115
-\MPnumerator=\count94
-\makeMPintoPDFobject=\count95
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count98
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen126
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -601,6 +655,20 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatrow package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
 Package epstopdf Info: Source file: <msu.eps>
 (epstopdf)                    date: 2009-11-03 21:43:44
 (epstopdf)                    size: 29500 bytes
@@ -609,14 +677,14 @@ Package epstopdf Info: Source file: <msu.eps>
 (epstopdf)                    size: 5465 bytes
 (epstopdf)             Command: <repstopdf --outfile=msu-eps-converted-to.pdf m
 su.eps>
-(epstopdf)             \includegraphics on input line 49.
+(epstopdf)             \includegraphics on input line 47.
 Package epstopdf Info: Output file is already uptodate.
 
 <msu-eps-converted-to.pdf, id=1, 187.70125pt x 101.37875pt>
 File: msu-eps-converted-to.pdf Graphic file (type pdf)
 
 <use msu-eps-converted-to.pdf>
-Package pdftex.def Info: msu-eps-converted-to.pdf used on input line 49.
+Package pdftex.def Info: msu-eps-converted-to.pdf used on input line 47.
 (pdftex.def)             Requested size: 242.16852pt x 130.80542pt.
  [1
 
@@ -625,7 +693,7 @@ Package pdftex.def Info: msu-eps-converted-to.pdf used on input line 49.
 
 ] (./diplom-2016.toc
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 4.
  [3
 
 ])
@@ -635,194 +703,194 @@ LaTeX Font Info:    External font `cmex7' loaded for size
  [4] [5
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 120.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 120.
  [6] [7] [8]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 [9
 
-]
+] [10]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[10
+[11
 
 ]
-Underfull \hbox (badness 1033) in paragraph at lines 199--200
+Underfull \hbox (badness 1033) in paragraph at lines 205--206
 []\T2A/cmr/m/n/14.4 Европейский Ин-сти-тут Те-ле-ком-му-ни-ка-ци-он-ных Стан-да
 р-тов (ETSI) в
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 202--203
+Underfull \hbox (badness 2837) in paragraph at lines 208--209
 []\T2A/cmr/m/n/14.4 менеджер вир-ту-аль-ной ин-фра-струк-ту-ры (Virtualized Inf
 rastructure
  []
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 []\T2A/cmr/m/n/14.4 оркестратор вир-ту-аль-ных се-те-вых сер-ви-сов (Network Fu
 nction
  []
 
-<nfv-mano.png, id=54, 874.26625pt x 678.535pt>
+<nfv-mano.png, id=57, 874.26625pt x 678.535pt>
 File: nfv-mano.png Graphic file (type png)
  <use nfv-mano.png>
-Package pdftex.def Info: nfv-mano.png used on input line 209.
+Package pdftex.def Info: nfv-mano.png used on input line 215.
 (pdftex.def)             Requested size: 460.11871pt x 357.10591pt.
- [12 <./nfv-mano.png>] [13] [14]
-Underfull \hbox (badness 1616) in paragraph at lines 260--261
+ [13 <./nfv-mano.png>] [14] [15]
+Underfull \hbox (badness 1616) in paragraph at lines 266--267
 []\T2A/cmr/m/n/14.4 отслеживание неис-прав-но-стей в ра-бо-те про-грамм-но-го о
 бес-пе-че-ния
  []
 
-[15] [16] [17]
+[16] [17] [18]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-[18
+[19
 
-] [19] [20] [21] [22] [23] [24]
+] [20] [21] [22] [23] [24] [25]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 []\T2A/cmr/m/n/14.4 ETSI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 NFV
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 []\T2A/cmr/m/n/14.4 Не-за-ви-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 си-мость
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 396--396
+Underfull \hbox (badness 5622) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 от плат-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 фор-мы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 вир-ту-а-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 ли-за-ции
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 []\T2A/cmr/m/n/14.4 Од-но-вре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 мен-ная
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 396--396
+Underfull \hbox (badness 4913) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 ра-бо-та с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 несколь-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 ки-ми
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 []\T2A/cmr/m/n/14.4 Мо-ни-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 то-ринг
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 со-сто-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--396
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
 \T2A/cmr/m/n/14.4 я-ния
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 []\T2A/cmr/m/n/14.4 ав-то-ма-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/cmr/m/n/14.4 ти-чес-кое
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/cmr/m/n/14.4 сра-ба-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/cmr/m/n/14.4 ты-ва-ние
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/cmr/m/n/14.4 об-ра-бот-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/cmr/m/n/14.4 чи-ков
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/cmr/m/n/14.4 scaling,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
 []\T2A/cmr/m/n/14.4 Openstack
  []
 
-[25
+[26
 
-] [26] [27]
+] [27] [28]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-[28
+[29
 
-] [29]
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
+] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
  |[]\T2A/cmr/bx/n/17.28 Модуль управ-ле-ния вир-ту-аль-ны-ми се-те-вы-ми
  []
 
-[30] [31]
+[31] [32]
 Package epstopdf Info: Source file: <classes_diagram.eps>
 (epstopdf)                    date: 2016-05-10 13:47:17
 (epstopdf)                    size: 1069205 bytes
@@ -831,121 +899,117 @@ Package epstopdf Info: Source file: <classes_diagram.eps>
 (epstopdf)                    size: 34202 bytes
 (epstopdf)             Command: <repstopdf --outfile=classes_diagram-eps-conver
 ted-to.pdf classes_diagram.eps>
-(epstopdf)             \includegraphics on input line 526.
+(epstopdf)             \includegraphics on input line 537.
 Package epstopdf Info: Output file is already uptodate.
 
-<classes_diagram-eps-converted-to.pdf, id=119, 749.80125pt x 704.6325pt>
+<classes_diagram-eps-converted-to.pdf, id=122, 749.80125pt x 704.6325pt>
 File: classes_diagram-eps-converted-to.pdf Graphic file (type pdf)
 
 <use classes_diagram-eps-converted-to.pdf>
 Package pdftex.def Info: classes_diagram-eps-converted-to.pdf used on input lin
-e 526.
+e 537.
 (pdftex.def)             Requested size: 460.11871pt x 432.40564pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 534--535
+Underfull \hbox (badness 3386) in paragraph at lines 545--546
 []\T2A/cmr/m/n/14.4 GUIManager с по-мо-щью VNFManager за-пра-ши-ва-ет под-пис-к
 у на
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 534--535
+Underfull \hbox (badness 1087) in paragraph at lines 545--546
 \T2A/cmr/m/n/14.4 каж-дую вир-ту-аль-ную се-те-вую функ-цию, со-дер-жа-щу-ю-ся 
 в сер-ви-се
  []
 
-[32] [33 <./classes_diagram-eps-converted-to.pdf>]
-Underfull \hbox (badness 1490) in paragraph at lines 540--541
+[33] [34 <./classes_diagram-eps-converted-to.pdf>]
+Underfull \hbox (badness 1490) in paragraph at lines 551--552
 []\T2A/cmr/m/n/14.4 GUIManager с по-мо-щью VIMManager со-еди-ня-ет вир-ту-аль-н
 ую ма-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 540--541
+Underfull \hbox (badness 1917) in paragraph at lines 551--552
 \T2A/cmr/m/n/14.4 ши-ну кли-ен-та с ин-фра-струк-ту-рой вир-ту-аль-но-го се-те-
 во-го сер-ви-са
  []
 
-[34]
+[35]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[35
+[36
 
-] [36] [37] [38]
-Underfull \hbox (badness 2221) in paragraph at lines 610--611
+] [37] [38] [39]
+Underfull \hbox (badness 2221) in paragraph at lines 623--624
 []\T2A/cmr/m/n/14.4 Экспериментальное ис-сле-до-ва-ние по-ка-за-ло, что мо-дуль
  ор-кест-ра-тор
  []
 
-[39] [40
+[40] [41
+
+] [42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
+[]\T2A/cmr/m/n/14.4 Network Functions Virtualisation Management and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
+\T2A/cmr/m/n/14.4 Orchestration [PDF] (http://www.etsi.org/deliver/etsi_gs/NFV-
+
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 672--673
+[]\T2A/cmr/m/n/14.4 ETSI NFV Management and Orchestration про-стым язы-ком [HTM
+L]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--674
+[]\T2A/cmr/m/n/14.4 Network Functions Virtualisation: use cases [HTML]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
+[]\T2A/cmr/m/n/14.4 NFV для кор-по-ра-тив-ных сер-ви-сов - ќ 12, 2014 [HTML]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--676
+[]\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ция се-те-вых функ-ций [HTML] (http://sc
+i-
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 678--679
+[]\T2A/cmr/m/n/14.4 Cloudify Overwiew. [HTML] (http://getcloudify.org/guide/3.1
+/overview-
+ []
+
+[44
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
-[]\T2A/cmr/m/n/14.4 Network Functions Virtualisation (NFV); Management and
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
+[]\T2A/cmr/m/n/14.4 Модель SaaS в ми-ре и в Рос-сии [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
-\T2A/cmr/m/n/14.4 Orchestration. URL: http://www.etsi.org/deliver/etsi_gs/NFV-
+Underfull \hbox (badness 2042) in paragraph at lines 685--686
+[]\T2A/cmr/m/n/14.4 Исходный код ре-а-ли-зо-ван-но-го мо-ду-ля VNF-O для плат-ф
+ор-мы C2
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
-\T2A/cmr/m/n/14.4 MAN/001_099/001/01.01.01_60/gs_NFV-MAN001v010101p.pdf (да-та
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 632--633
-[]\T2A/cmr/m/n/14.4 Network Functions Virtualisation (NFV); use cases. URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 632--633
-\T2A/cmr/m/n/14.4 http://www.etsi.org/technologies-clusters/technologies/nfv (д
-а-та об-ра-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 633--634
-[]\T2A/cmr/m/n/14.4 NFV для кор-по-ра-тив-ных сер-ви-сов - ќ 12, 2014. URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 634--635
-[]\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ция се-те-вых функ-ций. URL: http://sci-
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 637--638
-[]\T2A/cmr/m/n/14.4 Cloudify Overwiew. URL: http://getcloudify.org/guide/3.1/ov
-erview-
- []
-
-[41
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 640--641
-[]\T2A/cmr/m/n/14.4 Модель SaaS в ми-ре и в Рос-сии. URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 640--641
-\T2A/cmr/m/n/14.4 http://www.bytemag.ru/articles/detail.php?ID=12825 (да-та об-
-ра-ще-ния
- []
-
-[42] (./diplom-2016.aux) ) 
+[45] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 3219 strings out of 493304
- 42941 string characters out of 6139871
- 107057 words of memory out of 5000000
- 6606 multiletter control sequences out of 15000+600000
+ 4825 strings out of 493304
+ 70136 string characters out of 6139871
+ 138703 words of memory out of 5000000
+ 8197 multiletter control sequences out of 15000+600000
  13132 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,32p,1455b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,39p,1455b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t
 2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
@@ -957,10 +1021,10 @@ onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
 nts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/fonts/type1/public/cm-
 super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb><
 /usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on diplom-2016.pdf (42 pages, 319577 bytes).
+Output written on diplom-2016.pdf (45 pages, 323000 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
+ 210 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
