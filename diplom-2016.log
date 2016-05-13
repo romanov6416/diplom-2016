@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  13 MAY 2016 17:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  13 MAY 2016 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -949,59 +949,59 @@ Underfull \hbox (badness 2221) in paragraph at lines 623--624
 
 [40] [41
 
-] [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 671--672
+]
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation Management and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--672
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 \T2A/cmr/m/n/14.4 Orchestration [PDF] (http://www.etsi.org/deliver/etsi_gs/NFV-
 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 672--673
+Underfull \hbox (badness 1057) in paragraph at lines 648--649
 []\T2A/cmr/m/n/14.4 ETSI NFV Management and Orchestration про-стым язы-ком [HTM
 L]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 673--674
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation: use cases [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 674--675
+Underfull \hbox (badness 10000) in paragraph at lines 650--651
 []\T2A/cmr/m/n/14.4 NFV для кор-по-ра-тив-ных сер-ви-сов - ќ 12, 2014 [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 675--676
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
 []\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ция се-те-вых функ-ций [HTML] (http://sc
 i-
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 678--679
+Underfull \hbox (badness 2865) in paragraph at lines 654--655
 []\T2A/cmr/m/n/14.4 Cloudify Overwiew. [HTML] (http://getcloudify.org/guide/3.1
 /overview-
  []
 
-[44
+[42
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 681--682
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
 []\T2A/cmr/m/n/14.4 Модель SaaS в ми-ре и в Рос-сии [HTML]
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 685--686
+Underfull \hbox (badness 2042) in paragraph at lines 661--662
 []\T2A/cmr/m/n/14.4 Исходный код ре-а-ли-зо-ван-но-го мо-ду-ля VNF-O для плат-ф
 ор-мы C2
  []
 
-[45] (./diplom-2016.aux) ) 
+[43] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
  4825 strings out of 493304
  70136 string characters out of 6139871
@@ -1021,10 +1021,10 @@ onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
 nts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/fonts/type1/public/cm-
 super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb><
 /usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on diplom-2016.pdf (45 pages, 323000 bytes).
+Output written on diplom-2016.pdf (43 pages, 320978 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
+ 204 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
