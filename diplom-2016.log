@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  13 MAY 2016 18:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  14 MAY 2016 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,139 +743,144 @@ File: nfv-mano.png Graphic file (type png)
 Package pdftex.def Info: nfv-mano.png used on input line 215.
 (pdftex.def)             Requested size: 460.11871pt x 357.10591pt.
  [13 <./nfv-mano.png>] [14] [15]
-Underfull \hbox (badness 1616) in paragraph at lines 266--267
+Underfull \hbox (badness 1616) in paragraph at lines 264--265
 []\T2A/cmr/m/n/14.4 отслеживание неис-прав-но-стей в ра-бо-те про-грамм-но-го о
 бес-пе-че-ния
  []
 
-[16] [17] [18]
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+ |[]\T2A/cmr/bx/n/17.28 Оркестратор вир-ту-аль-ных се-те-вых сер-ви-сов
+ []
+
+[17] [18]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 [19
 
 ] [20] [21] [22] [23] [24] [25]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []\T2A/cmr/m/n/14.4 ETSI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 NFV
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []\T2A/cmr/m/n/14.4 Не-за-ви-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 си-мость
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 403--403
+Underfull \hbox (badness 5622) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 от плат-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 фор-мы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 вир-ту-а-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 ли-за-ции
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []\T2A/cmr/m/n/14.4 Од-но-вре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 мен-ная
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 403--403
+Underfull \hbox (badness 4913) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 ра-бо-та с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 несколь-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 ки-ми
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 []\T2A/cmr/m/n/14.4 Мо-ни-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 то-ринг
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 со-сто-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
 \T2A/cmr/m/n/14.4 я-ния
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 []\T2A/cmr/m/n/14.4 ав-то-ма-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \T2A/cmr/m/n/14.4 ти-чес-кое
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \T2A/cmr/m/n/14.4 сра-ба-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \T2A/cmr/m/n/14.4 ты-ва-ние
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \T2A/cmr/m/n/14.4 об-ра-бот-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \T2A/cmr/m/n/14.4 чи-ков
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 \T2A/cmr/m/n/14.4 scaling,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--409
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 []\T2A/cmr/m/n/14.4 Openstack
  []
 
@@ -886,7 +891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 409--409
 [29
 
 ] [30]
-Underfull \hbox (badness 10000) in paragraph at lines 508--508
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
  |[]\T2A/cmr/bx/n/17.28 Модуль управ-ле-ния вир-ту-аль-ны-ми се-те-вы-ми
  []
 
@@ -899,7 +904,7 @@ Package epstopdf Info: Source file: <classes_diagram.eps>
 (epstopdf)                    size: 34202 bytes
 (epstopdf)             Command: <repstopdf --outfile=classes_diagram-eps-conver
 ted-to.pdf classes_diagram.eps>
-(epstopdf)             \includegraphics on input line 537.
+(epstopdf)             \includegraphics on input line 536.
 Package epstopdf Info: Output file is already uptodate.
 
 <classes_diagram-eps-converted-to.pdf, id=122, 749.80125pt x 704.6325pt>
@@ -907,32 +912,32 @@ File: classes_diagram-eps-converted-to.pdf Graphic file (type pdf)
 
 <use classes_diagram-eps-converted-to.pdf>
 Package pdftex.def Info: classes_diagram-eps-converted-to.pdf used on input lin
-e 537.
+e 536.
 (pdftex.def)             Requested size: 460.11871pt x 432.40564pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 545--546
+Underfull \hbox (badness 3386) in paragraph at lines 544--545
 []\T2A/cmr/m/n/14.4 GUIManager с по-мо-щью VNFManager за-пра-ши-ва-ет под-пис-к
 у на
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 545--546
+Underfull \hbox (badness 1087) in paragraph at lines 544--545
 \T2A/cmr/m/n/14.4 каж-дую вир-ту-аль-ную се-те-вую функ-цию, со-дер-жа-щу-ю-ся 
 в сер-ви-се
  []
 
 [33] [34 <./classes_diagram-eps-converted-to.pdf>]
-Underfull \hbox (badness 1490) in paragraph at lines 551--552
+Underfull \hbox (badness 1490) in paragraph at lines 550--551
 []\T2A/cmr/m/n/14.4 GUIManager с по-мо-щью VIMManager со-еди-ня-ет вир-ту-аль-н
 ую ма-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 551--552
+Underfull \hbox (badness 1917) in paragraph at lines 550--551
 \T2A/cmr/m/n/14.4 ши-ну кли-ен-та с ин-фра-струк-ту-рой вир-ту-аль-но-го се-те-
 во-го сер-ви-са
  []
@@ -942,7 +947,7 @@ Underfull \hbox (badness 1917) in paragraph at lines 551--552
 [36
 
 ] [37] [38] [39]
-Underfull \hbox (badness 2221) in paragraph at lines 623--624
+Underfull \hbox (badness 2221) in paragraph at lines 622--623
 []\T2A/cmr/m/n/14.4 Экспериментальное ис-сле-до-ва-ние по-ка-за-ло, что мо-дуль
  ор-кест-ра-тор
  []
@@ -950,40 +955,40 @@ Underfull \hbox (badness 2221) in paragraph at lines 623--624
 [40] [41
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 647--648
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation Management and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--648
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
 \T2A/cmr/m/n/14.4 Orchestration [PDF] (http://www.etsi.org/deliver/etsi_gs/NFV-
 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 648--649
+Underfull \hbox (badness 1057) in paragraph at lines 647--648
 []\T2A/cmr/m/n/14.4 ETSI NFV Management and Orchestration про-стым язы-ком [HTM
 L]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--650
+Underfull \hbox (badness 10000) in paragraph at lines 648--649
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation: use cases [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 []\T2A/cmr/m/n/14.4 NFV для кор-по-ра-тив-ных сер-ви-сов - ќ 12, 2014 [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 651--652
+Underfull \hbox (badness 10000) in paragraph at lines 650--651
 []\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ция се-те-вых функ-ций [HTML] (http://sc
 i-
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 654--655
+Underfull \hbox (badness 2865) in paragraph at lines 653--654
 []\T2A/cmr/m/n/14.4 Cloudify Overwiew. [HTML] (http://getcloudify.org/guide/3.1
 /overview-
  []
@@ -991,22 +996,40 @@ Underfull \hbox (badness 2865) in paragraph at lines 654--655
 [42
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 657--658
+Underfull \hbox (badness 10000) in paragraph at lines 656--657
 []\T2A/cmr/m/n/14.4 Модель SaaS в ми-ре и в Рос-сии [HTML]
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 661--662
+Underfull \hbox (badness 1320) in paragraph at lines 660--661
+[]\T2A/cmr/m/n/14.4 TOSCA Simple Profilein YAML Version 1.0 [PDF] (http://docs.
+oasis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+\T2A/cmr/m/n/14.4 open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/TOSCA-Simple-Pr
+ofile-
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 661--662
+[]\T2A/cmr/m/n/14.4 Центр При-клад-ных Ис-сле-до-ва-ний Ком-пью-тер-ных Се-тей 
+[HTML]
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 662--663
 []\T2A/cmr/m/n/14.4 Исходный код ре-а-ли-зо-ван-но-го мо-ду-ля VNF-O для плат-ф
 ор-мы C2
  []
 
 [43] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 4825 strings out of 493304
- 70136 string characters out of 6139871
- 138703 words of memory out of 5000000
- 8197 multiletter control sequences out of 15000+600000
+ 4827 strings out of 493304
+ 70158 string characters out of 6139871
+ 138713 words of memory out of 5000000
+ 8199 multiletter control sequences out of 15000+600000
  13132 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,11n,39p,1455b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1021,7 +1044,7 @@ onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
 nts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/fonts/type1/public/cm-
 super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb><
 /usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on diplom-2016.pdf (43 pages, 320971 bytes).
+Output written on diplom-2016.pdf (43 pages, 322594 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  139 compressed objects within 2 object streams
