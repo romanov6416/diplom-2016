@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  14 MAY 2016 20:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.12)  15 MAY 2016 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -947,7 +947,7 @@ Underfull \hbox (badness 1917) in paragraph at lines 550--551
 [36
 
 ] [37] [38] [39]
-Underfull \hbox (badness 2221) in paragraph at lines 622--623
+Underfull \hbox (badness 2221) in paragraph at lines 620--621
 []\T2A/cmr/m/n/14.4 Экспериментальное ис-сле-до-ва-ние по-ка-за-ло, что мо-дуль
  ор-кест-ра-тор
  []
@@ -955,40 +955,40 @@ Underfull \hbox (badness 2221) in paragraph at lines 622--623
 [40] [41
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 646--647
+Underfull \hbox (badness 10000) in paragraph at lines 645--646
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation Management and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 646--647
+Underfull \hbox (badness 10000) in paragraph at lines 645--646
 \T2A/cmr/m/n/14.4 Orchestration [PDF] (http://www.etsi.org/deliver/etsi_gs/NFV-
 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 647--648
+Underfull \hbox (badness 1057) in paragraph at lines 646--647
 []\T2A/cmr/m/n/14.4 ETSI NFV Management and Orchestration про-стым язы-ком [HTM
 L]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 []\T2A/cmr/m/n/14.4 Network Functions Virtualisation: use cases [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--650
+Underfull \hbox (badness 10000) in paragraph at lines 648--649
 []\T2A/cmr/m/n/14.4 NFV для кор-по-ра-тив-ных сер-ви-сов - ќ 12, 2014 [HTML]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 []\T2A/cmr/m/n/14.4 NFV вир-ту-а-ли-за-ция се-те-вых функ-ций [HTML] (http://sc
 i-
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 653--654
+Underfull \hbox (badness 2865) in paragraph at lines 652--653
 []\T2A/cmr/m/n/14.4 Cloudify Overwiew. [HTML] (http://getcloudify.org/guide/3.1
 /overview-
  []
@@ -996,40 +996,34 @@ Underfull \hbox (badness 2865) in paragraph at lines 653--654
 [42
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 656--657
+Underfull \hbox (badness 10000) in paragraph at lines 655--656
 []\T2A/cmr/m/n/14.4 Модель SaaS в ми-ре и в Рос-сии [HTML]
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 660--661
+Underfull \hbox (badness 1320) in paragraph at lines 659--660
 []\T2A/cmr/m/n/14.4 TOSCA Simple Profilein YAML Version 1.0 [PDF] (http://docs.
 oasis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 660--661
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
 \T2A/cmr/m/n/14.4 open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/TOSCA-Simple-Pr
 ofile-
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 661--662
+Underfull \hbox (badness 7030) in paragraph at lines 660--661
 []\T2A/cmr/m/n/14.4 Центр При-клад-ных Ис-сле-до-ва-ний Ком-пью-тер-ных Се-тей 
 [HTML]
  []
 
-
-Underfull \hbox (badness 2042) in paragraph at lines 662--663
-[]\T2A/cmr/m/n/14.4 Исходный код ре-а-ли-зо-ван-но-го мо-ду-ля VNF-O для плат-ф
-ор-мы C2
- []
-
 [43] (./diplom-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 4827 strings out of 493304
- 70158 string characters out of 6139871
- 138713 words of memory out of 5000000
- 8199 multiletter control sequences out of 15000+600000
+ 4826 strings out of 493304
+ 70141 string characters out of 6139871
+ 138708 words of memory out of 5000000
+ 8198 multiletter control sequences out of 15000+600000
  13132 words of font info for 29 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,11n,39p,1455b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1044,7 +1038,7 @@ onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
 nts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf/fonts/type1/public/cm-
 super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb><
 /usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on diplom-2016.pdf (43 pages, 322594 bytes).
+Output written on diplom-2016.pdf (43 pages, 322619 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  139 compressed objects within 2 object streams
